@@ -8,13 +8,13 @@ export const resumeConfig: ResumeConfig = {
       en: 'Global Digital Commerce Release Lead',
     },
     subtitle: {
-      en: '12+ years of international experience',
+      en: '13 years of international experience',
     },
     location: 'Wexford, Ireland',
   },
   seo: {
     title: 'Global Digital Commerce IT Release Lead',
-    description: 'Interactive resume of Maxime McGuire, IT Release & eCommerce Operations Manager with 12+ years of international experience in SAP, Agile and digital commerce.',
+    description: 'Interactive resume of Maxime McGuire, IT Release & eCommerce Operations Manager with 13 years of international experience in SAP, Agile and digital commerce.',
   },
   languages: {
     default: 'en',
@@ -114,12 +114,12 @@ export const resumeConfig: ResumeConfig = {
       company: { en: 'Deutsche Börse' },
       role: { en: 'Corporate IT Central Release Manager' },
       type: { en: 'Full-time' },
-      period: { en: '2024 - Present' },
+      period: { en: '2024 - 2025' },
       description: {
         en: 'Leading enterprise-wide release and change management for 400+ transport releases across 8 SAP core platforms tailored for financial data processing.',
       },
       techs: ['SAP S/4HANA', 'SAP Commerce Cloud', 'JIRA', 'Confluence'],
-      isHighlighted: true,
+      isHighlighted: false,
       details: {
         context: {
           en: 'Hybrid/Remote position based in Cork, Ireland. Overseeing global IT planning, coordination, and execution across 8 SAP core application development and system operations integrated platforms.',
