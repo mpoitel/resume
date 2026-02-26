@@ -313,7 +313,7 @@ export const resumeConfig: ResumeConfig = {
       period: '2021',
     },
   ],
-  theme: { preset: 'minimal' },
+  theme: { preset: 'forest' },
   labels: {
     sections: {
       contact: { en: 'CONTACT' },
