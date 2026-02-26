@@ -148,7 +148,7 @@ export const resumeConfig: ResumeConfig = {
         en: 'Dual role as global Operations & Release Manager for swarovski.com, leading Business & IT Release cycles for SAP Commerce (Hybris) and SAP Commerce Cloud.',
       },
       techs: ['SAP Commerce Cloud', 'SAP S/4HANA', 'Jenkins', 'Bitbucket', 'JIRA'],
-      isHighlighted: true,
+      isHighlighted: false,
       details: {
         context: {
           en: 'Hybrid/Remote position based in Zürich, Switzerland. Responsible for running and developing swarovski.com clusters across global markets.',
