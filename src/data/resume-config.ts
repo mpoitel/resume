@@ -5,7 +5,7 @@ export const resumeConfig: ResumeConfig = {
     name: 'Maxime McGuire',
     photoBackEmoji: '💼',
     title: {
-      en: 'Global Digital Commerce IT Release Lead',
+      en: 'Global Digital Commerce Release Lead',
     },
     subtitle: {
       en: '12+ years of international experience',
@@ -114,7 +114,7 @@ export const resumeConfig: ResumeConfig = {
       company: { en: 'Deutsche Börse' },
       role: { en: 'Corporate IT Central Release Manager' },
       type: { en: 'Full-time' },
-      period: { en: '2024 - 2025' },
+      period: { en: '2024 - Present' },
       description: {
         en: 'Leading enterprise-wide release and change management for 400+ transport releases across 8 SAP core platforms tailored for financial data processing.',
       },
