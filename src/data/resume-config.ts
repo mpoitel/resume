@@ -114,7 +114,7 @@ export const resumeConfig: ResumeConfig = {
       company: { en: 'Deutsche Börse' },
       role: { en: 'Corporate IT Central Release Manager' },
       type: { en: 'Full-time' },
-      period: { en: '2024 - Present' },
+      period: { en: '2024 - 2025' },
       description: {
         en: 'Leading enterprise-wide release and change management for 400+ transport releases across 8 SAP core platforms tailored for financial data processing.',
       },
@@ -313,7 +313,7 @@ export const resumeConfig: ResumeConfig = {
       period: '2021',
     },
   ],
-  theme: { preset: 'forest' },
+  theme: { preset: 'warm' },
   labels: {
     sections: {
       contact: { en: 'CONTACT' },
