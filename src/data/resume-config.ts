@@ -5,15 +5,15 @@ export const resumeConfig: ResumeConfig = {
     name: 'Maxime McGuire',
     photoBackEmoji: '💼',
     title: {
-      en: 'IT Release & eCommerce Operations Manager',
+      en: 'Global Digital Commerce IT Release Lead',
     },
     subtitle: {
       en: '12+ years of international experience',
     },
-    location: 'Cork, Ireland',
+    location: 'Wexford, Ireland',
   },
   seo: {
-    title: 'Maxime McGuire — IT Release & eCommerce Operations Manager',
+    title: 'Global Digital Commerce IT Release Lead',
     description: 'Interactive resume of Maxime McGuire, IT Release & eCommerce Operations Manager with 12+ years of international experience in SAP, Agile and digital commerce.',
   },
   languages: {
@@ -24,8 +24,8 @@ export const resumeConfig: ResumeConfig = {
   contact: [
     { type: 'linkedin', label: 'maximemcguire', href: 'https://linkedin.com/in/maximemcguire' },
     { type: 'email', label: 'mpoitel@gmail.com' },
-    { type: 'phone', label: '+353 (0) 85 169 51 78' },
-    { type: 'location', label: 'Cork, Ireland' },
+    { type: 'phone', label: '+353 85 169 51 78' },
+    { type: 'location', label: 'Wexford, Ireland' },
   ],
   skills: [
     {
@@ -66,15 +66,6 @@ export const resumeConfig: ResumeConfig = {
       ],
     },
     {
-      title: { en: 'CMS & CRM Platforms' },
-      type: 'badges',
-      items: [
-        { name: 'WordPress' },
-        { name: 'Magento' },
-        { name: 'Zendesk' },
-      ],
-    },
-    {
       title: { en: 'Data & Web Analytics' },
       type: 'badges',
       items: [
@@ -89,6 +80,7 @@ export const resumeConfig: ResumeConfig = {
       items: [
         { name: 'Jenkins' },
         { name: 'Bitbucket' },
+        { name: 'GitHub Actions' },
       ],
     },
     {
@@ -113,13 +105,6 @@ export const resumeConfig: ResumeConfig = {
       type: 'text',
       items: [
         { name: { en: 'Agile, SAFe, Scrum, Kanban, CI/CD, DevOps, Release Management' } },
-      ],
-    },
-    {
-      title: { en: 'Soft Skills' },
-      type: 'text',
-      items: [
-        { name: { en: 'Stakeholder Management, Cross-functional Collaboration, Mentoring & Coaching, Customer-oriented, Problem Solving' } },
       ],
     },
   ],
