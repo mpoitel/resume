@@ -27,7 +27,7 @@ export const resumeConfig: ResumeConfig = {
     { type: 'phone', label: '+353 85 169 51 78' },
     { type: 'location', label: 'Wexford, Ireland' },
   ],
-  projects: [
+  skills: [
     {
       title: { en: 'Education' },
       type: 'languages',
