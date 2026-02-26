@@ -29,16 +29,6 @@ export const resumeConfig: ResumeConfig = {
   ],
   skills: [
     {
-      title: { en: 'Education' },
-      type: 'languages',
-      items: [
-        { name: { en: 'French' }, level: { en: 'Native' } },
-        { name: { en: 'English' }, level: { en: 'Fluent' } },
-      ],
-    },
-  ],
-  skills: [
-    {
       title: { en: 'Languages' },
       type: 'languages',
       items: [
