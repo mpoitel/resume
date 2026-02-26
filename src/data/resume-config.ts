@@ -284,20 +284,20 @@ export const resumeConfig: ResumeConfig = {
   education: [
     {
       school: { en: 'Université de Poitiers' },
-      degree: { en: 'Master\'s Degree in Web Content Management and Programming' },
-      specialty: { en: 'Poitiers, France' },
+      degree: { en: 'Master\'s Degree' },
+      specialty: { en: 'Web Content Management & Programming' },
       period: '2011 - 2013',
     },
     {
       school: { en: 'Audencia SciencesCom' },
-      degree: { en: 'Bachelor\'s Degree in Digital Communication and Content Production' },
-      specialty: { en: 'Nantes, France' },
+      degree: { en: 'Bachelor\'s Degree' },
+      specialty: { en: 'Digital Communication & Content Production' },
       period: '2010 - 2011',
     },
     {
       school: { en: 'Université Paul Sabatier' },
-      degree: { en: 'Degree in Information and Data Management' },
-      specialty: { en: 'Toulouse, France' },
+      degree: { en: 'Foundation Degree' },
+      specialty: { en: 'Information and Data Management' },
       period: '2008 - 2010',
     },
     {
